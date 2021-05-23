@@ -1,0 +1,8 @@
+{
+  "language": "ja",
+  "plugins": [
+    "hide-published-with",
+    "anchors",
+    "collapsible-chapters"
+  ]
+}

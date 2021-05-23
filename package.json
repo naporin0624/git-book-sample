@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "scripts": {
+    "init": "gitbook init",
+    "prebuild": "rimraf _book && gitbook install",
+    "build": "gitbook build"
+  },
+  "devDependencies": {
+    "rimraf": "^3.0.2"
+  }
+}
